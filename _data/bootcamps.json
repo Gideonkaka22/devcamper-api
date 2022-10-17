@@ -1,0 +1,64 @@
+[
+    {
+"_id": "6333172af16128b2e8f72bae",
+"name": "Devworks Bootcamp",
+"description": "Devworks is a full stack Javascript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+"website": "https://devworks.com",
+"phone": "(111) 111-1111",
+"email": "enroll@devworks.com",
+"address": "233 Bay State Rd Boston MA 02215",
+"careers": [
+    "Web Development",
+    "UI/UX",
+    "Business"
+],
+"photo": "no-photo.jpg",
+"housing": true,
+"jobAssistance": true,
+"jobGuarantee": false,
+"acceptGi": true
+},
+
+{
+"_id": "633417476f2549c580e959c7",
+"name": "Codemasters",
+"description": "Is coding your passion? Codemasters will give you the skills and the tools to become the best developer possible. We specialize in full stack web development and data science",
+"website": "https://codemasters.com",
+"phone": "(333) 333-3333",
+"email": "enroll@codemasters.com",
+"address": "85 South Prospect Street Burlington VT 05405",
+"careers": [
+    "Web Development",
+    "Data Science",
+    "Business"
+],
+"photo": "no-photo.jpg",
+"housing": false,
+"jobAssistance": false,
+"jobGuarantee": false,
+"acceptGi": false
+},
+
+{
+"_id": "6335bf65a5fd432233aca17e",
+"name": "ModeTech Bootcamp",
+"description": "ModernTech has one goal, and that is to make you a rockstar developer and/or designer with a six figure salary. We teach both development and UI/UX",
+"website": "https://moderntech.com",
+"phone": "(222) 222-2222",
+"email": "enroll@moderntech.com",
+"address": "73 Unity Estate, Enugu",
+"careers": [
+    "Web Development",
+    "UI/UX",
+    "Mobile Development"
+],
+"photo": "no-photo.jpg",
+"housing": false,
+"jobAssistance": true,
+"jobGuarantee": false,
+"acceptGi": true,
+"slug": "modetech-bootcamp",
+"__v": 0
+}
+
+]
